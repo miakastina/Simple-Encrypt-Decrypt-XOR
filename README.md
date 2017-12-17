@@ -1,4 +1,4 @@
-# Simple-Encrypt-Decrypt-XOR
+# Simple-Encrypt-Decrypt
 Keterangan :
 Teknik XOR dan menampilkan perubahan kode ASCII (Char,Decimal dan Binary)
 
